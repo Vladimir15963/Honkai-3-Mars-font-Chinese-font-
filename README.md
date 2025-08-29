@@ -13,7 +13,7 @@
 |字体类型|拼音汉字
 
 
-这个字形的生成器是闭源的，你可看[SpeedyOrc-C]()的网页[字形生成器](https://github.com/SpeedyOrc-C/Honkai-3rd-II-Martian)用这个开源的字形生成器
+这个字形的生成器是闭源的，你可看[SpeedyOrc-C](https://github.com/SpeedyOrc-C)的网页[字形生成器](https://github.com/SpeedyOrc-C/Honkai-3rd-II-Martian)用这个开源的字形生成器
 
 ## 什么是火星文?
 「火星文」指的是在游戏《崩坏三》中出现的一种科幻文字，这种科幻文字本质上是中文字的变体，字形按拼音部件组成，更详细的视频解析[视频链接(bilibili)](https://b23.tv/f8WnEch)
@@ -41,7 +41,7 @@
 1. 拼音部件
 b站这期视频[视频链接2](https://b23.tv/f8WnEch)，up主帮我们把所有拼符的图案找了出来，并且获得火星字形的生成方式
 2. 字形生成
-按照字形的生成方式制作生成工具，其实[SpeedyOrc-C]()的生成器已经实现了这个，但我不会js（），所以批量生成字形就用python重新实现了
+按照字形的生成方式制作生成工具，其实[SpeedyOrc-C](https://github.com/SpeedyOrc-C)的生成器已经实现了这个，但我不会js（），所以批量生成字形就用python重新实现了
 
 六千个字形就这样跑出来的
 3. 字体制作
