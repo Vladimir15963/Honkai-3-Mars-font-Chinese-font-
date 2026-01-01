@@ -1,6 +1,5 @@
 
 
-现字体是无衬线矢量汉字拼音字体，
 
 ## 关于字体
 基本信息：
@@ -11,9 +10,9 @@
 |汉字标准|GB2312|
 |支持字数|6763(个）
 |字体类型|拼音汉字
+|开源协议|[SIL Open Font License](https://openfontlicense.org)
 
-
-这个字形的生成器是闭源的，你可看[SpeedyOrc-C](https://github.com/SpeedyOrc-C)的网页[字形生成器](https://github.com/SpeedyOrc-C/Honkai-3rd-II-Martian)用这个开源的字形生成器
+这个字形使用一定算法的生成器，你可看[SpeedyOrc-C](https://github.com/SpeedyOrc-C)的网页[字形生成器](https://github.com/SpeedyOrc-C/Honkai-3rd-II-Martian)用这个开源的字形生成器
 
 ## 什么是火星文?
 「火星文」指的是在游戏《崩坏三》中出现的一种科幻文字，这种科幻文字本质上是中文字的变体，字形按拼音部件组成，更详细的视频解析[视频链接(bilibili)](https://b23.tv/f8WnEch)
@@ -21,7 +20,10 @@
 ## 字形图像
 `字形.zip`它包括了2312标准的所有字形图像，图像名称是按Unicode的顺序排序（1-6763），你可以按照“tool”内的txt文件来找到对应的汉字
 ## 如何开源?
-字体本身是依照MIT开源协议进行开源，但字形生成器不提供源码，请见谅
+字体本身是依照SIL Open Font License开源协议进行开源，字形生成器不提供源码，请见谅
+
+你可以随意使用、修改、分发、嵌入任何作品中，只要你不进行单独售卖
+
 ## 文星文的生成方式
 
 在火星文中，每个单独的字形都由其对应汉字的拼音部件组成，所以火星文字是一种拼音文字
